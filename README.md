@@ -1,9 +1,9 @@
 # Carica fatture Danea
-Contributors: simonemsr
-Tags: upload, invoice, zip, Danea
-Requires at least: 2.8
-Tested up to: 4.6
-Stable tag: 0.0.1
+Contributors: simonemsr   
+Tags: upload, invoice, zip, Danea  
+Requires at least: 2.8  
+Tested up to: 4.6  
+Stable tag: 0.0.1  
 
 Upload a zip archive and let WP unzip it and attach invoices to orders.
 
